@@ -1,0 +1,36 @@
+﻿/* main.css | Kavita Bhardwaj | Express Portfolio Site | Styling sheet for the website */
+
+h1 {
+    color: blue;
+    font: 22px sans-serif, Arial, Helvetica;
+}
+
+h2 {
+    color: green;
+    font: 20px sans-serif, Arial, Helvetica;
+}
+
+h3 {
+    color: orangered;
+    font: 18px sans-serif, Arial, Helvetica;
+}
+
+p {
+    padding: 50px;
+    color: firebrick;
+    font: 16px sans-serif, Arial, Helvetica;
+}
+
+body {
+    padding: 50px;
+    font: 14px sans-serif, Arial, Helvetica;
+}
+
+a {
+    color: red;
+}
+
+#class-name {
+    color: purple;
+}
+
